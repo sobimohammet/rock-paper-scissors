@@ -60,3 +60,5 @@ function playGame() {
         console.log(`End of game It's a draw! The score is; Human ${humanScore} Computer ${computerScore}. Try again!`);
     }
 }
+
+playGame();
